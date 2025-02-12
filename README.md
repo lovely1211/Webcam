@@ -73,6 +73,9 @@ This project is a **Webcam Application** built using MERN-Stack, allowing users 
 ![Screenshot (196)](https://github.com/user-attachments/assets/8a917463-3eef-4ff2-8fe5-25c572bf1ab5)
 ![Screenshot (197)](https://github.com/user-attachments/assets/a02f0508-4ecd-4abe-8bde-324cf0f71b59)
 
+## 📚 Reference
+This project was developed with the help of the following resource:
+react-webcam  :  https://www.npmjs.com/package/react-webcam
 
 ## 🔧 Customization
 - You can modify the `style.css` file to change the UI.
