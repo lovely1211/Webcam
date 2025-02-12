@@ -63,6 +63,13 @@
   margin-top: 20px;
   text-align: center;
 }
+ 
+.save-btn, .del-btn{
+  font-size: large;
+  font-weight: 400;
+  padding: 4px;
+  margin: 4px;
+}
   
 .preview img, .preview video {
   max-width: 100%;

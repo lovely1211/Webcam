@@ -133,7 +133,7 @@ const Camera = () => {
             <button className="save-btn" onClick={() => saveMedia("image")}>
               <FaSave /> Save
             </button>
-            <button className="delete-btn" onClick={deletePreview}>
+            <button className="del-btn" onClick={deletePreview}>
               <FaTrash /> Remove
             </button>
           </div>
@@ -149,7 +149,7 @@ const Camera = () => {
             <button className="save-btn" onClick={() => saveMedia("video")}>
               <FaSave /> Save
             </button>
-            <button className="delete-btn" onClick={deletePreview}>
+            <button className="del-btn" onClick={deletePreview}>
               <FaTrash /> Remove
             </button>
           </div>
